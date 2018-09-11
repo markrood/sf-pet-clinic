@@ -29,7 +29,7 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/markrood/sf-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/markrood/sf-pet-clinic</developerConnection>
     </scm>
     <build>
         <plugins>
