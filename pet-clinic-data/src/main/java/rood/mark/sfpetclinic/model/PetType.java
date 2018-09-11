@@ -1,4 +1,4 @@
-package model;
+package rood.mark.sfpetclinic.model;
 
 public class PetType {
     public String getName() {

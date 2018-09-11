@@ -1,4 +1,4 @@
-package model;
+package rood.mark.sfpetclinic.model;
 
 import java.time.LocalDate;
 
